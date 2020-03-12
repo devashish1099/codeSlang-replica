@@ -24,3 +24,4 @@ document.getElementById("mad").onclick = function(){ mad() };
 document.getElementById("humanga").onclick = function(){ humanga() };
 document.getElementById("chill").onclick = function(){ chill() };
 document.getElementById("hextor").onclick = function(){ hextor() };
+document.getElementById("cardinal").onclick = function(){ cardinal() };
