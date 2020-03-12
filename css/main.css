@@ -1,0 +1,20 @@
+#canvas{
+    padding: auto;
+    margin: auto;
+    border: solid black 10px;
+}
+
+.Buttons{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+}
+
+.button{
+    color: white;
+    background-color: burlywood;
+    border: 0px;
+    margin: 1px;
+    border-radius: 5px;
+    height: 40px;
+}
